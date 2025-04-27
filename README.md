@@ -1,0 +1,1 @@
+![GitHub Actions](https://github.com/Nadezhda-Sergeevna/unit2/actions/runs/14694301845)
